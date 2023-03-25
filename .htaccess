@@ -1,2 +1,1 @@
-Redirect 301 /calendar.html /calendar/
-Redirect 301 /not_found.html /
+Redirect 301 /index.html /
