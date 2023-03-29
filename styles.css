@@ -1,0 +1,67 @@
+body {
+  background: rgb(24, 28, 54);
+  margin: 0px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+margin-top: -80px;
+}
+#favicon
+{
+margin-top: -680px;
+width: 200px;
+height: 200px;
+}
+#textinsaniquariumdeluxe
+{
+margin-top: -40px;
+}
+.topnavbar {
+  margin-left: auto;
+  margin-right: auto;	
+  width: 800px;
+  height: 80px;
+  background-color: rgba(7, 7, 7, 0.75);
+}
+.links {
+  margin-top: -70px;
+    font-size: 24px;
+    font-family: Verdana, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "sans-serif";
+    white-space: nowrap;
+  text-shadow: 2px 2px #000000;
+    font-weight: bold;
+}
+.maincontainer {
+position: relative;
+  z-index: -1;
+}
+
+a:link {
+    color: rgb(178, 192, 211);
+         background-color: transparent;
+  text-decoration: solid;
+  margin-left: 40px;
+      }
+a:hover {
+    color: rgb(232, 230, 227);
+  text-decoration: underline;
+}
+
+.topdivstyle{
+    background: rgb(14, 17, 31);
+    height: 125px;
+    width: 100%;
+}
+.topdivlinkspos{
+    margin-left: 25%;
+}
+
+
+
+
+.shinystudioslogo {
+    margin-left: 17%;
+    padding: 30px;
+}
